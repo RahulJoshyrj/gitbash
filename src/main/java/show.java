@@ -7,7 +7,8 @@ public class show {
 		System.out.println("you r welcome");
 		String name="Rahul Joshy";
 		System.out.println(name);
-		//this a git bash demo file
+		System.out.println("this a git bash demo file");
+		//
 	}
 
 }
