@@ -5,6 +5,8 @@ public class show {
 		System.out.println("git bash git bash bit bash");
 		System.out.println("thank you");
 		System.out.println("you r welcome");
+		String name="Rahul Joshy";
+		System.out.println(name);
 	}
 
 }
